@@ -1,0 +1,3 @@
+# Module blogshop
+# RPC service class, partial path of RPC policy file
+com.shop.myproject.client.GreetingService, B30C2B93BB979FD103DABA368CE374B3.gwt.rpc
