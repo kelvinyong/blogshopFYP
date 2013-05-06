@@ -42,7 +42,7 @@ public class Blogshop implements EntryPoint {
 		final Button sendButton = new Button("Send");
 		final TextBox nameField = new TextBox();
 		final TextBox pwdField = new TextBox();
-		nameField.setText("Username");
+		nameField.setText("User name");
 		pwdField.setText("password");
 		final Label errorLabel = new Label();
 
